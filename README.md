@@ -21,7 +21,7 @@
 
 ### 📚 Em andamento
 
-- 🎓 Graduação em **ADS**
+- 🎓 Graduação em **ADS** na [UnyLeya](https://unyleya.edu.br/)
 - 📘 Curso introdutório de **Robótica com Arduino** na [**Udemy**](https://www.udemy.com/)
 - 📘 Bootcamp **Suzano - Python Developer** na [**DIO**](https://web.dio.me/home)
 - 🧪 Práticas com **Python** e automações no terminal
